@@ -122,6 +122,7 @@ cyberbullying-comment-analyzer/
 
 ## 👩‍💻 Contributors
 Putluri Chandra Harinadha Reddy (Project Lead)
+
 Likhitha Gopalam
 
 ## 📜 License
